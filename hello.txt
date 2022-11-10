@@ -4,4 +4,4 @@ the first git
 从master分支第二个版本创建的hot-fix分支
 制造冲突。master test
 制造冲突，hot-fix test
-
+拉取修改结果
