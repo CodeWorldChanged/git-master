@@ -6,3 +6,4 @@ the first git
 制造冲突，hot-fix test
 拉取修改结果
 本地分支关联远程分支
+团队内协作测试
